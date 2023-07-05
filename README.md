@@ -4,5 +4,5 @@
 
 To run Roles Notebook cheatsheet:
 ```console
-npx rtl-book serve roles-notes.js
+npx rtl-book serve [NOTEBOOK-NAME].js
 ```
